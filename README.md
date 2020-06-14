@@ -1,2 +1,1 @@
-# Python_Data_Science_Class_Projects
-Two projects from a Python data science course at UVA
+Several projects from undergraduate classes at UVA related to programming and data science.
